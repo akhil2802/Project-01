@@ -1,0 +1,22 @@
+Vagrant.configure("2") do |config|
+  config.vm.define "cicd01" do |cicd01|
+    cicd01.vm.box = "bento/ubuntu-22.04"
+    cicd01.vm.hostname = "cicd01"
+
+    # Set the amount of memory (in MB)
+    cicd01.vm.provider "virtualbox" do |vb|
+      vb.memory = 6144 # 6GB RAM
+      vb.cpus = 2 # 2 CPUs
+    end
+
+    # Configure a bridge network
+    cicd01.vm.network "public_network", bridge: "eth1"
+
+    # Configure port forwarding
+    cicd01.vm.network "forwarded_port", guest: 80, host: 80
+
+    # Additional configuration if needed
+  end
+end
+
+

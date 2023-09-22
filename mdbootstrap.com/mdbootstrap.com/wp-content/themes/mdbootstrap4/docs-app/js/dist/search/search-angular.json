@@ -1,0 +1,1336 @@
+[
+  {
+    "href": "/docs/angular/",
+    "name": "About MDB",
+    "keywords": ["introduction", "mdb", "demo"],
+    "category": "Getting started"
+  },
+  {
+    "href": "/docs/angular/getting-started/installation/",
+    "name": "installation",
+    "keywords": [
+      "webpack",
+      "cdn",
+      "npm",
+      "yarn",
+      "configuration",
+      "import",
+      "download",
+      "github",
+      "zip"
+    ],
+    "category": "Getting started"
+  },
+  {
+    "href": "/docs/angular/getting-started/",
+    "name": "Tutorials",
+    "keywords": ["basic", "intermediate", "advanced"],
+    "category": "Getting started"
+  },
+  {
+    "href": "/docs/angular/getting-started/changelog/",
+    "name": "Changelog",
+    "keywords": ["releases", "updates"],
+    "category": "Getting started"
+  },
+  {
+    "href": "/docs/angular/pro/",
+    "name": "MDB 5 Pro",
+    "keywords": ["premium", "advanced"],
+    "category": "MDB Pro"
+  },
+  {
+    "href": "/docs/angular/pro/installation/",
+    "name": "MDB 5 Pro installation",
+    "keywords": ["installation", "pro"],
+    "category": "MDB Pro"
+  },
+  {
+    "href": "/docs/angular/pro/plugins-installation/",
+    "name": "Plugins installation",
+    "keywords": [
+      "webpack",
+      "cdn",
+      "npm",
+      "yarn",
+      "configuration",
+      "import",
+      "download",
+      "github",
+      "zip",
+      "plugins"
+    ],
+    "category": "MDB Pro"
+  },
+  {
+    "href": "/docs/angular/pro/git/",
+    "name": "Git access",
+    "keywords": ["source code", "repository"],
+    "category": "MDB Pro"
+  },
+  {
+    "href": "/docs/angular/pro/support/",
+    "name": "Premium support",
+    "keywords": ["forum", "help", "issue"],
+    "category": "MDB Pro"
+  },
+  {
+    "href": "/docs/standard/cli/",
+    "name": "MDB GO / CLI & hosting",
+    "keywords": ["deploy", "create MDB project", "hosting", "CLI installation"],
+    "category": "CLI"
+  },
+  {
+    "href": "/docs/standard/cli/quick-start/",
+    "name": "MDB CLI Quick Start",
+    "keywords": ["CLI quick start"],
+    "category": "CLI"
+  },
+  {
+    "href": "/docs/standard/cli/reference/",
+    "name": "MDB CLI Command Reference",
+    "keywords": ["reference", "commands"],
+    "category": "CLI"
+  },
+  {
+    "href": "/docs/angular/layout/grid/",
+    "name": "Grid system",
+    "keywords": ["row"],
+    "category": "Layout",
+    "priority": {
+      "grid": 1
+    }
+  },
+  {
+    "href": "/docs/angular/layout/breakpoints/",
+    "name": "Breakpoints",
+    "keywords": ["breakpoints", "media queries"],
+    "category": "Layout"
+  },
+  {
+    "href": "/docs/angular/layout/containers/",
+    "name": "Containers",
+    "keywords": [],
+    "category": "Layout"
+  },
+  {
+    "href": "/docs/angular/layout/columns/",
+    "name": "Columns",
+    "keywords": [
+      "order",
+      "wrapping"
+    ],
+    "category": "Layout",
+    "priority": {
+      "column": 1
+    }
+  },
+  {
+    "href": "/docs/angular/layout/css-grid/",
+    "name": "CSS Grid",
+    "keywords": [
+      "css",
+      "grid"
+    ],
+    "category": "Layout",
+    "priority": {
+      "css grid": 1
+    }
+  },
+  {
+    "href": "/docs/angular/layout/display/",
+    "name": "Display",
+    "keywords": ["inline", "inline-block", "block", "none"],
+    "category": "Layout",
+    "priority": {
+      "display": 1
+    }
+  },
+  {
+    "href": "/docs/angular/layout/flexbox/",
+    "name": "Flexbox",
+    "keywords": [
+      "display",
+      "justify content",
+      "align items",
+      "align self",
+      "grow",
+      "shrink",
+      "wrap"
+    ],
+    "category": "Layout",
+    "priority": {
+      "flex": 1
+    }
+  },
+  {
+    "href": "/docs/angular/layout/float/",
+    "name": "Float",
+    "keywords": ["right", "left"],
+    "category": "Layout",
+    "priority": {
+      "float": 1
+    }
+  },
+  {
+    "href": "/docs/angular/layout/gutters/",
+    "name": "Gutters",
+    "keywords": ["padding", "margin", "space"],
+    "category": "Layout",
+    "priority": {
+      "gutter": 1
+    }
+  },
+  {
+    "href": "/docs/angular/layout/horizontal-alignment/",
+    "name": "Horizontal alignment",
+    "keywords": ["center", "middle"],
+    "category": "Layout",
+    "priority": {
+      "horizontal": 1
+    }
+  },
+  {
+    "href": "/docs/angular/layout/vertical-alignment/",
+    "name": "Vertical alignment",
+    "keywords": ["center", "middle"],
+    "category": "Layout",
+    "priority": {
+      "vertical": 1
+    }
+  },
+  {
+    "href": "/docs/angular/layout/z-index/",
+    "name": "Z-index",
+    "keywords": [],
+    "category": "Layout",
+    "priority": {
+      "z-index": 1
+    }
+  },
+  {
+    "href": "/docs/angular/content-styles/theme/",
+    "name": "Theme",
+    "keywords": [
+      "theme",
+      "skin",
+      "dark",
+      "dark theme",
+      "dark skin"
+    ],
+    "category": "Content & styles",
+    "priority": {
+      "theme": 1
+    }
+  },
+  {
+    "href": "/docs/angular/content-styles/animations/",
+    "name": "Animations",
+    "keywords": ["fade", "slide", "zoom", "pulse"],
+    "category": "Content & styles",
+    "priority": {
+      "animation": 1
+    }
+  },
+  {
+    "href": "/docs/angular/content-styles/colors/",
+    "name": "Colors",
+    "keywords": [
+      "pallette",
+      "primary",
+      "secondary",
+      "warning",
+      "danger",
+      "info",
+      "light",
+      "dark",
+      "success"
+    ],
+    "category": "Content & styles",
+    "priority": {
+      "color": 1
+    }
+  },
+  {
+    "href": "/docs/angular/content-styles/dividers/",
+    "name": "Dividers",
+    "keywords": [
+      "dividers"
+    ],
+    "category": "Content & styles"
+  },
+  {
+    "href": "/docs/angular/content-styles/figures/",
+    "name": "Figures",
+    "keywords": ["figcaption", "figure image"],
+    "category": "Content & styles",
+    "priority": {
+      "figures": 1
+    }
+  },
+  {
+    "href": "/docs/angular/content-styles/flags/",
+    "name": "Flags",
+    "keywords": ["country", "countries"],
+    "category": "Content & styles",
+    "priority": {
+      "flag": 1
+    }
+  },
+  {
+    "href": "/docs/angular/content-styles/hover-effects/",
+    "name": "Hover effects",
+    "keywords": ["overlay", "zoom"],
+    "category": "Content & styles",
+    "priority": {
+      "hover": 1
+    }
+  },
+  {
+    "href": "/docs/angular/content-styles/icons/",
+    "name": "Icons",
+    "keywords": ["fa", "font awesome", "emoticons", "social icons"],
+    "category": "Content & styles",
+    "priority": {
+      "icon": 1
+    }
+  },
+  {
+    "href": "/docs/angular/content-styles/images/",
+    "name": "Images",
+    "keywords": [
+      "thumbnails",
+      "responsive"
+    ],
+    "category": "Content & styles",
+    "priority": {
+      "image": 1
+    }
+  },
+  {
+    "href": "/docs/angular/content-styles/masks/",
+    "name": "Masks",
+    "keywords": ["rgba", "opacity", "color", "overlay"],
+    "category": "Content & styles",
+    "priority": {
+      "mask": 1
+    }
+  },
+  {
+    "href": "/docs/angular/content-styles/shadows/",
+    "name": "Shadows",
+    "keywords": ["box shadow", "depth", "elevation"],
+    "category": "Content & styles",
+    "priority": {
+      "shadow": 1
+    }
+  },
+  {
+    "href": "/docs/angular/content-styles/typography/",
+    "name": "Typography",
+    "keywords": [
+      "text",
+      "fonts",
+      "headings",
+      "paragraphs",
+      "lead",
+      "abbreviations",
+      "lists"
+    ],
+    "category": "Content & styles",
+    "priority": {
+      "text": 1
+    }
+  },
+  {
+    "href": "/docs/angular/navigation/breadcrumb/",
+    "name": "Breadcrumb",
+    "keywords": ["location"],
+    "category": "Navigation",
+    "priority": {
+      "breadcrumb": 1
+    }
+  },
+  {
+    "href": "/docs/angular/navigation/footer/",
+    "name": "Footer",
+    "keywords": ["copyrights"],
+    "category": "Navigation",
+    "priority": {
+      "footer": 1
+    }
+  },
+  {
+    "href": "/docs/angular/navigation/headers/",
+    "name": "Headers",
+    "keywords": ["jumbotron", "hero", "introduction"],
+    "category": "Navigation",
+    "priority": {
+      "header": 1
+    }
+  },
+  {
+    "href": "/docs/angular/navigation/navbar/",
+    "name": "Navbar",
+    "keywords": ["header", "branding", "links"],
+    "category": "Navigation",
+    "priority": {
+      "navbar": 1
+    }
+  },
+  {
+    "href": "/docs/angular/navigation/pagination/",
+    "name": "Pagination",
+    "keywords": ["pages", "paginate", "next", "previous"],
+    "category": "Navigation",
+    "priority": {
+      "pagination": 1
+    }
+  },
+  {
+    "href": "/docs/angular/navigation/pills/",
+    "name": "Pills",
+    "keywords": [],
+    "category": "Navigation",
+    "priority": {
+      "pill": 1
+    }
+  },
+  {
+    "href": "/docs/angular/navigation/sidenav/",
+    "name": "Sidenav",
+    "keywords": ["sidebar", "side navigation", "offcanvas", "drawer"],
+    "category": "Navigation",
+    "priority": {
+      "sidenav": 1
+    }
+  },
+  {
+    "href": "/docs/angular/navigation/tabs/",
+    "name": "Tabs",
+    "keywords": ["links"],
+    "category": "Navigation",
+    "priority": {
+      "tab": 1
+    }
+  },
+  {
+    "href": "/docs/angular/components/accordion/",
+    "name": "Accordion",
+    "keywords": [
+      "hidden content",
+      "expanding",
+      "toggling"
+    ],
+    "category": "Components",
+    "priority": {
+      "accordion": 1
+    }
+  },
+  {
+    "href": "/docs/angular/components/alerts/",
+    "name": "Alerts",
+    "keywords": ["notifications", "dismissing"],
+    "category": "Components",
+    "priority": {
+      "alert": 1
+    }
+  },
+  {
+    "href": "/docs/angular/components/badges/",
+    "name": "Badges",
+    "keywords": ["label", "notifications"],
+    "category": "Components",
+    "priority": {
+      "badge": 1
+    }
+  },
+  {
+    "href": "/docs/angular/components/buttons/",
+    "name": "Buttons",
+    "keywords": ["outline", "rounded", "floating", "social", "tags"],
+    "category": "Components",
+    "priority": {
+      "button": 1
+    }
+  },
+  {
+    "href": "/docs/angular/components/button-group/",
+    "name": "Button group",
+    "keywords": ["toolbar"],
+    "category": "Components"
+  },
+  {
+    "href": "/docs/angular/components/cards/",
+    "name": "Cards",
+    "keywords": ["content container"],
+    "category": "Components",
+    "priority": {
+      "card": 1
+    }
+  },
+  {
+    "href": "/docs/angular/components/carousel/",
+    "name": "Carousel",
+    "keywords": [
+      "slides",
+      "images",
+      "interval",
+      "indicators",
+      "controls",
+      "captions"
+    ],
+    "category": "Components",
+    "priority": {
+      "carousel": 1
+    }
+  },
+  {
+    "href": "/docs/angular/components/chips/",
+    "name": "Chips",
+    "keywords": ["chips", "tags"],
+    "category": "Components",
+    "priority": {
+      "chip": 1
+    }
+  },
+  {
+    "href": "/docs/angular/components/collapse/",
+    "name": "Collapse",
+    "keywords": ["hidden content", "expanding", "toggling", "accordion"],
+    "category": "Components",
+    "priority": {
+      "collapse": 1
+    }
+  },
+  {
+    "href": "/docs/angular/components/dropdowns/",
+    "name": "Dropdowns",
+    "keywords": ["menu", "toggling"],
+    "category": "Components",
+    "priority": {
+      "dropdown": 1
+    }
+  },
+  {
+    "href": "/docs/angular/components/lightbox/",
+    "name": "Lightbox",
+    "keywords": [
+      "gallery",
+      "images"
+    ],
+    "category": "Components",
+    "priority": {
+      "lightbox": 1
+    }
+  },
+  {
+    "href": "/docs/angular/components/list-group/",
+    "name": "List group",
+    "keywords": ["flush"],
+    "category": "Components",
+    "priority": {
+      "list": 1
+    }
+  },
+  {
+    "href": "/docs/angular/components/modal/",
+    "name": "Modal",
+    "keywords": ["dialog", "notification", "popup"],
+    "category": "Components",
+    "priority": {
+      "modal": 1
+    }
+  },
+  {
+    "href": "/docs/angular/components/popconfirm/",
+    "name": "Popconfirm",
+    "keywords": [
+      "confirm"
+    ],
+    "category": "Components",
+    "priority": {
+      "popconfirm": 1
+    }
+  },
+  {
+    "href": "/docs/angular/components/popovers/",
+    "name": "Popovers",
+    "keywords": ["dialog", "dismissing"],
+    "category": "Components",
+    "priority": {
+      "popover": 1
+    }
+  },
+  {
+    "href": "/docs/angular/components/placeholders/",
+    "name": "Placeholders",
+    "keywords": [
+      "placeholders"
+    ],
+    "category": "Components",
+    "priority": {
+      "placeholders": 1
+    }
+  },
+  {
+    "href": "/docs/angular/components/progress/",
+    "name": "Progress",
+    "keywords": ["bars", "loading"],
+    "category": "Components",
+    "priority": {
+      "progress": 1
+    }
+  },
+  {
+    "href": "/docs/angular/components/rating/",
+    "name": "Rating",
+    "keywords": [
+      "feedback",
+      "stars",
+      "emoji"
+    ],
+    "category": "Components",
+    "priority": {
+      "rating": 1,
+      "star": 1
+    }
+  },
+  {
+    "href": "/docs/angular/components/spinners/",
+    "name": "Spinners",
+    "keywords": ["loading"],
+    "category": "Components",
+    "priority": {
+      "spinner": 1
+    }
+  },
+  {
+    "href": "/docs/angular/components/stepper/",
+    "name": "Stepper",
+    "keywords": [
+      "steps"
+    ],
+    "category": "Components",
+    "priority": {
+      "stepper": 1,
+      "step": 1
+    }
+  },
+  {
+    "href": "/docs/angular/components/toasts/",
+    "name": "Toasts",
+    "keywords": ["notifications"],
+    "category": "Components",
+    "priority": {
+      "toast": 1
+    }
+  },
+  {
+    "href": "/docs/angular/components/tooltips/",
+    "name": "Tooltips",
+    "keywords": [],
+    "category": "Components",
+    "priority": {
+      "tooltip": 1
+    }
+  },
+  {
+    "href": "/docs/angular/forms/autocomplete/",
+    "name": "Autocomplete",
+    "keywords": [
+      "autocomplete"
+    ],
+    "category": "Forms",
+    "priority": {
+      "autocomplete": 1
+    }
+  },
+  {
+    "href": "/docs/angular/forms/checkbox/",
+    "name": "Checkbox",
+    "keywords": ["checked"],
+    "category": "Forms",
+    "priority": {
+      "check": 1,
+      "checkbox": 1
+    }
+  },
+  {
+    "href": "/docs/angular/forms/datepicker/",
+    "name": "Datepicker",
+    "keywords": ["date"],
+    "category": "Forms",
+    "priority": {
+      "date": 1,
+      "datepicker": 1
+    }
+  },
+  {
+    "href": "/docs/angular/forms/file/",
+    "name": "File",
+    "keywords": ["upload"],
+    "category": "Forms",
+    "priority": {
+      "file": 1,
+      "upload":1
+    }
+  },
+  {
+    "href": "/docs/angular/forms/input-fields/",
+    "name": "Input fields",
+    "keywords": [
+      "textarea",
+      "readonly",
+      "email",
+      "password",
+      "number",
+      "phone number",
+      "url",
+      "label"
+    ],
+    "category": "Forms",
+    "priority": {
+      "input": 1
+    }
+  },
+  {
+    "href": "/docs/angular/forms/input-group/",
+    "name": "Input group",
+    "keywords": [],
+    "category": "Forms"
+  },
+  {
+    "href": "/docs/angular/forms/multi-range-slider/",
+    "name": "Multi range",
+    "keywords": ["multi range", "multi", "range", "slider"],
+    "category": "Forms"
+  },
+  {
+    "href": "/docs/angular/forms/radio/",
+    "name": "Radio",
+    "keywords": ["toggle buttons"],
+    "category": "Forms",
+    "priority": {
+      "radio": 1
+    }
+  },
+  {
+    "href": "/docs/angular/forms/range/",
+    "name": "Range",
+    "keywords": ["minimum", "maximum", "slider"],
+    "category": "Forms",
+    "priority": {
+      "range": 1,
+      "slider": 2
+    }
+  },
+  {
+    "href": "/docs/angular/forms/select/",
+    "name": "Select",
+    "keywords": ["options", "multiselect"],
+    "category": "Forms",
+    "priority": {
+      "select": 1
+    }
+  },
+  {
+    "href": "/docs/angular/forms/switch/",
+    "name": "Switch",
+    "keywords": ["toggle"],
+    "category": "Forms",
+    "priority": {
+      "switch": 1,
+      "toggle": 1
+    }
+  },
+  {
+    "href": "/docs/angular/forms/timepicker/",
+    "name": "Timepicker",
+    "keywords": ["time", "hour"],
+    "category": "Forms",
+    "priority": {
+      "time": 1,
+      "timepicker": 1
+    }
+  },
+  {
+    "href": "/docs/angular/forms/validation/",
+    "name": "Validation",
+    "keywords": ["valid", "invalid", "feedback"],
+    "category": "Forms",
+    "priority": {
+      "validation": 1
+    }
+  },
+  {
+    "href": "/docs/angular/data/charts/",
+    "name": "Charts fundamentals",
+    "keywords": [
+      "graphs",
+      "bar",
+      "line",
+      "pie",
+      "doughnut",
+      "polar",
+      "radar",
+      "bubble",
+      "scatter"
+    ],
+    "category": "Data",
+    "priority": {
+      "chart": 1
+    }
+  },
+  {
+    "href": "/docs/angular/data/charts-advanced/",
+    "name": "Charts advanced usage",
+    "keywords": [
+      "mixed",
+      "axis"
+    ],
+    "category": "Data",
+    "priority": {
+      "chart": 2
+    }
+  },
+  {
+    "href": "/docs/angular/data/datatables/",
+    "name": "Datatables",
+    "keywords": ["sort", "filter", "search", "async data", "table"],
+    "category": "Data",
+    "priority": {
+      "table": 2
+    }
+  },
+  {
+    "href": "/docs/angular/data/tables/",
+    "name": "Tables",
+    "keywords": [
+      "striped",
+      "hoverable",
+      "bordered",
+      "borderless",
+      "small",
+      "responsive"
+    ],
+    "category": "Data",
+    "priority": {
+      "table": 1
+    }
+  },
+  {
+    "href": "/docs/angular/utilities/api/",
+    "name": "API",
+    "keywords": ["class prefix"],
+    "category": "Utilities",
+    "priority": {
+      "api": 1
+    }
+  },
+  {
+    "href": "/docs/angular/utilities/borders/",
+    "name": "Borders",
+    "keywords": ["radius", "circle", "rounded", "corners"],
+    "category": "Utilities",
+    "priority": {
+      "border": 1
+    }
+  },
+  {
+    "href": "/docs/angular/utilities/clearfix/",
+    "name": "Clearfix",
+    "keywords": ["mixin", "floats"],
+    "category": "Utilities",
+    "priority": {
+      "clearfix": 1
+    }
+  },
+  {
+    "href": "/docs/angular/utilities/close-button/",
+    "name": "Close button",
+    "keywords": [],
+    "category": "Utilities",
+    "priority": {
+      "close": 1
+    }
+  },
+  {
+    "href": "/docs/angular/utilities/ratio/",
+    "name": "Embeds",
+    "keywords": ["iframe", "video", "aspect ratios"],
+    "category": "Utilities",
+    "priority": {
+      "embed": 1,
+      "iframe": 1
+    }
+  },
+  {
+    "href": "/docs/angular/utilities/interactions/",
+    "name": "Interactions",
+    "keywords": ["text selection", "pointers"],
+    "category": "Utilities",
+    "priority": {
+      "interaction": 1
+    }
+  },
+  {
+    "href": "/docs/angular/utilities/opacity/",
+    "name": "Opacity",
+    "keywords": [
+      "opacity"
+    ],
+    "category": "Utilities",
+    "priority": {
+      "opacity": 1
+    }
+  },
+  {
+    "href": "/docs/angular/utilities/overflow/",
+    "name": "Overflow",
+    "keywords": ["hidden", "auto"],
+    "category": "Utilities",
+    "priority": {
+      "overflow": 1
+    }
+  },
+  {
+    "href": "/docs/angular/utilities/position/",
+    "name": "Position",
+    "keywords": ["fixed", "sticky", "absolute", "static", "relative"],
+    "category": "Utilities",
+    "priority": {
+      "position": 1
+    }
+  },
+  {
+    "href": "/docs/angular/utilities/visually-hidden/",
+    "name": "Screen readers",
+    "keywords": ["visually hidden"],
+    "category": "Utilities",
+    "priority": {
+      "screen readers": 1,
+      "visually-hidden": 1
+    }
+  },
+  {
+    "href": "/docs/angular/utilities/sizing/",
+    "name": "Sizing",
+    "keywords": ["width", "height"],
+    "category": "Utilities",
+    "priority": {
+      "sizing": 1,
+      "width": 1,
+      "height": 1
+    }
+  },
+  {
+    "href": "/docs/angular/utilities/spacing/",
+    "name": "Spacing",
+    "keywords": ["margin", "padding"],
+    "category": "Utilities",
+    "priority": {
+      "spacing": 1,
+      "margin": 1,
+      "padding": 1
+    }
+  },
+  {
+    "href": "/docs/angular/utilities/stretched-link/",
+    "name": "Stretched link",
+    "keywords": [],
+    "category": "Utilities",
+    "priority": {
+      "stretched link": 1
+    }
+  },
+  {
+    "href": "/docs/angular/utilities/text/",
+    "name": "Text",
+    "keywords": [
+      "line height",
+      "word break",
+      "text transform",
+      "monospace",
+      "text decoration",
+      "font weight",
+      "italic",
+      "wrapping",
+      "alignment",
+      "overflow"
+    ],
+    "category": "Utilities",
+    "priority": {
+      "text": 2
+    }
+  },
+  {
+    "href": "/docs/angular/utilities/text-truncation/",
+    "name": "Text truncation",
+    "keywords": ["inline block", "block", "truncate"],
+    "category": "Utilities",
+    "priority": {
+      "text": 3
+    }
+  },
+  {
+    "href": "/docs/angular/utilities/vertical-rule/",
+    "name": "Vertical rule",
+    "keywords": [
+      "vertical",
+      "rule"
+    ],
+    "category": "Utilities",
+    "priority": {
+      "vertical rule": 1
+    }
+  },
+  {
+    "href": "/docs/angular/utilities/visibility/",
+    "name": "Visibility",
+    "keywords": ["invisible", "hidden", "visible"],
+    "category": "Utilities",
+    "priority": {
+      "visibility": 1
+    }
+  },
+  {
+    "href": "/docs/angular/methods/loading-management/",
+    "name": "Loading management",
+    "keywords": [
+      "spinner",
+      "loader"
+    ],
+    "category": "Methods",
+    "priority": {
+      "loading": 3
+    }
+  },
+  {
+    "href": "/docs/angular/methods/scrollbar/",
+    "name": "Scrollbar ",
+    "keywords": ["Perfect scrollbar"],
+    "category": "Methods",
+    "priority": {
+      "scroll": 1
+    }
+  },
+  {
+    "href": "/docs/angular/methods/lazy-loading/",
+    "name": "Lazy loading",
+    "keywords": [
+      "optimize"
+    ],
+    "category": "Methods",
+    "priority": {
+      "loading": 2
+    }
+  },
+  {
+    "href": "/docs/angular/methods/infinite-scroll/",
+    "name": "Infinite scroll",
+    "keywords": [],
+    "category": "Methods",
+    "priority": {
+      "infinite": 1
+    }
+  },
+  {
+    "href": "/docs/angular/navigation/scrollspy/",
+    "name": "Scrollspy",
+    "keywords": ["active link", "scrolling"],
+    "category": "Navigation",
+    "priority": {
+      "scrollspy": 1
+    }
+  },
+  {
+    "href": "/docs/angular/methods/smooth-scroll/",
+    "name": "Smooth scroll",
+    "keywords": [],
+    "category": "Methods",
+    "priority": {
+      "scroll": 2
+    }
+  },
+  {
+    "href": "/docs/angular/methods/ripple/",
+    "name": "Ripple",
+    "keywords": ["waves"],
+    "category": "Methods",
+    "priority": {
+      "ripple": 1,
+      "wave": 1
+    }
+  },
+  {
+    "href": "/docs/angular/methods/sticky/",
+    "name": "Sticky",
+    "keywords": [
+      "affix"
+    ],
+    "category": "Methods",
+    "priority": {
+      "sticky": 1
+    }
+  },
+  {
+    "href": "/docs/angular/methods/touch/",
+    "name": "Touch",
+    "keywords": [
+      "mobile"
+    ],
+    "category": "Methods",
+    "priority": {
+      "mobile": 1,
+      "touch": 1
+    }
+  },
+  {
+    "href": "/docs/angular/plugins/calendar/",
+    "name": "Calendar plugin",
+    "keywords": [
+      "date",
+      "time"
+    ],
+    "category": "Plugins",
+    "priority": {
+      "calendar": 1,
+      "date": 2,
+      "time": 2
+    }
+  },
+  {
+    "href": "/docs/angular/plugins/captcha/",
+    "name": "Captcha plugin",
+    "keywords": ["captcha"],
+    "category": "Plugins",
+    "priority": {
+      "captcha": 1
+    }
+  },
+  {
+    "href": "/docs/angular/plugins/color-picker/",
+    "name": "Color picker plugin",
+    "keywords": [],
+    "category": "Plugins",
+    "priority": {
+      "color": 2
+    }
+  },
+  {
+    "href": "/docs/angular/plugins/countdown/",
+    "name": "Countdown plugin",
+    "keywords": [
+      "countdown",
+      "time"
+    ],
+    "category": "Plugins",
+    "priority": {
+      "countdown": 1,
+      "time": 2
+    }
+  },
+  {
+    "href": "/docs/angular/plugins/data-parser/",
+    "name": "Data parser plugin",
+    "keywords": [],
+    "category": "Plugins",
+    "priority": {
+      "data": 2,
+      "parser": 1
+    }
+  },
+  {
+    "href": "/docs/angular/plugins/cookies-management/",
+    "name": "Cookies management plugin",
+    "keywords": [],
+    "category": "Plugins",
+    "priority": {
+      "cookie": 1
+    }
+  },
+  {
+    "href": "/docs/angular/plugins/drag-and-drop/",
+    "name": "Drag and drop plugin",
+    "keywords": [],
+    "category": "Plugins",
+    "priority": {
+      "drag": 1,
+      "drop": 1
+    }
+  },
+  {
+    "href": "/docs/angular/plugins/ecommerce-gallery/",
+    "name": "eCommerce gallery plugin",
+    "keywords": [],
+    "category": "Plugins",
+    "priority": {
+      "gallery": 1,
+      "ecommere": 1
+    }
+  },
+  {
+    "href": "/docs/angular/plugins/file-upload/",
+    "name": "File upload plugin",
+    "keywords": [],
+    "category": "Plugins",
+    "priority": {
+      "file": 2,
+      "upload": 2
+    }
+  },
+  {
+    "href": "/docs/angular/plugins/filters/",
+    "name": "Filters plugin",
+    "keywords": ["filters", "filter", "sort"],
+    "category": "Plugins",
+    "priority": {
+      "filters": 2
+    }
+  },
+  {
+    "href": "/docs/angular/plugins/input-mask/",
+    "name": "Input mask plugin",
+    "keywords": ["input", "mask", "input mask"],
+    "category": "Plugins",
+    "priority": {
+      "input mask": 2
+    }
+  },
+  {
+    "href": "/docs/angular/plugins/mention/",
+    "name": "Mention plugin",
+    "keywords": [
+      "suggest"
+    ],
+    "category": "Plugins",
+    "priority": {
+      "mention": 1
+    }
+  },
+  {
+    "href": "/docs/angular/plugins/multi-item-carousel/",
+    "name": "Multi item carousel plugin",
+    "keywords": [],
+    "category": "Plugins",
+    "priority": {
+      "multi": 1,
+      "carousel": 2
+    }
+  },
+  {
+    "href": "/docs/angular/plugins/onboarding/",
+    "name": "Onboarding plugin",
+    "keywords": [""],
+    "category": "Plugins",
+    "priority": {
+      "onboarding": 1
+    }
+  },
+  {
+    "href": "/docs/angular/plugins/organization-chart/",
+    "name": "Organization chart plugin",
+    "keywords": ["organization chart"],
+    "category": "Plugins",
+    "priority": {
+      "organization": 1
+    }
+  },
+  {
+    "href": "/docs/angular/plugins/parallax/",
+    "name": "Parallax plugin",
+    "keywords": [""],
+    "category": "Plugins",
+    "priority": {
+      "parallax": 1
+    }
+  },
+  {
+    "href": "/docs/angular/plugins/scroll-status/",
+    "name": "Scroll status plugin",
+    "keywords": [],
+    "category": "Plugins",
+    "priority": {
+      "scroll": 3
+    }
+  },
+  {
+    "href": "/docs/angular/plugins/storage-management/",
+    "name": "Storage management plugin",
+    "keywords": [],
+    "category": "Plugins",
+    "priority": {
+      "storage": 1
+    }
+  },
+  {
+    "href": "/docs/angular/plugins/table-editor/",
+    "name": "Table editor plugin",
+    "keywords": [],
+    "category": "Plugins",
+    "priority": {
+      "table": 3,
+      "data": 2
+    }
+  },
+  {
+    "href": "/docs/angular/plugins/transfer/",
+    "name": "Transfer plugin",
+    "keywords": [],
+    "category": "Plugins",
+    "priority": {
+      "transfer": 1
+    }
+  },
+  {
+    "href": "/docs/angular/plugins/tree-view/",
+    "name": "Tree view plugin",
+    "keywords": [],
+    "category": "Plugins",
+    "priority": {
+      "tree": 1
+    }
+  },
+  {
+    "href": "/docs/angular/plugins/wysiwyg-editor/",
+    "name": "WYSIWYG editor plugin",
+    "keywords": [],
+    "category": "Plugins",
+    "priority": {
+      "editor": 1,
+      "wysiwyg": 1
+    }
+  },
+  {
+    "href": "/docs/angular/plugins/vector-maps/",
+    "name": "Vector maps plugin",
+    "keywords": [
+      "svg",
+      "geo"
+    ],
+    "category": "Plugins",
+    "priority": {
+      "map": 1,
+      "vector": 1
+    }
+  },
+  {
+    "href": "/docs/standard/lab/",
+    "name": "LAB",
+    "keywords": [],
+    "category": "LAB"
+  },
+  {
+    "href": "/docs/standard/tools/",
+    "name": "Tools",
+    "keywords": ["builder", "design", "creators", "generators"],
+    "category": "Tools"
+  },
+  {
+    "href": "/docs/angular/extended/",
+    "name": "Extended docs",
+    "keywords": [],
+    "category": "Extended"
+  }
+]

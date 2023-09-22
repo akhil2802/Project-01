@@ -1,0 +1,13 @@
+body{
+    box-sizing: border-box;
+    background-image: url("../IMG/pexels_black_leaf1.jpg");
+}
+
+.pulse-button{
+    border-radius: 5px;
+    padding: 1px 5px;
+}
+
+img.myphoto{
+    width: 10%;
+}
